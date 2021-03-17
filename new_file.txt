@@ -1,2 +1,3 @@
 Edit new_file.txt
 git test
+new edit
