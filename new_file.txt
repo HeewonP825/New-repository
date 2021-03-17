@@ -1,4 +1,5 @@
 Edit new_file.txt
 git test
 new edit
-makr branch 2 for editing!
+make branch 2 for editing!
+~editing~
