@@ -1,3 +1,6 @@
 Edit new_file.txt
 git test
 new edit
+next edit
+edit edit edit
+latest edition!
