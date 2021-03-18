@@ -1,6 +1,9 @@
 Edit new_file.txt
 git test
 new edit
+make branch 2 for editing!
+~editing~
+finally complete!
 next edit
 edit edit edit
 latest edition!
